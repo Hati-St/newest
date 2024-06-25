@@ -1,0 +1,28 @@
+main {
+    background-color: Moccasin;
+}
+h1 {
+    color: red;
+    font-size: large;
+    line-height: 5px;
+    text-align: center;
+}
+h2 {
+    color: LightSalmon;
+    font-size: medium;
+    line-height: 5px;
+    text-align: center;
+}
+ui {
+    color: FireBrick;
+    font-size: small;
+    line-height: 3px;
+    text-align: left;    
+}
+p {
+    color: FireBrick;
+    font-size: small;
+    line-height: 3px;
+    text-align: left;
+}
+img {text-align: center;}
